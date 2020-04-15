@@ -1,4 +1,4 @@
-![Islam Companion Desktop Reader](https://www.pakjiddat.pk/pakjiddat/ui/images/islamcompanion-desktop-reader.png)
+![Islam Companion Desktop Reader](https://pakjiddat.netlify.com/static/8c513780478d833c9b633dcd099b6348/f941f/islamcompanion-desktop-reader.png)
 
 ### Introduction
 
@@ -30,10 +30,10 @@ The Islam Companion Desktop Reader requires Python 3. It also requires the [PyQt
 
 The following steps can be used to run the "Islam Companion Desktop Reader" application on a 64 bit Linux desktop:
 
-* Download the [executable files](https://islamcompanion.pakjiddat.pk/islamcompanion/data/ic-desktop-reader.tar.bz2)
+* Download the [executable files](https://drive.google.com/open?id=1d47lxF0iF1rQfujGTHdAvowNwivbXFIA)
 * Extract the downloaded file. This will produce the two files: **ic-desktop-hadith** and **ic-desktop-quran**. Make these files executable using the **chmod+x** command
 * Copy the executable files to **/usr/bin** folder
-* Download the [quran database](https://islamcompanion.pakjiddat.pk/islamcompanion/data/holy-quran.db.tar.bz2) and [hadith database](https://islamcompanion.pakjiddat.pk/islamcompanion/data/hadith.db.tar.bz2). Extract the files and copy the **db** files to the folder: **/usr/share/ic-desktop-reader/**
+* Download the [quran database](https://drive.google.com/open?id=11a_dQ4i0__--x5PkFjlmwMUxgMdTWbIa) and [hadith database](https://drive.google.com/open?id=1pHo5auUuKiNEi9jlmQJ0-n3oqDEdbDR0). Extract the files and copy the **db** files to the folder: **/usr/share/ic-desktop-reader/**
 * Start the quran reader using the command: **ic-desktop-quran**
 * Start the hadith reader using the command: **ic-desktop-hadith**
 * Create desktop launchers for easily starting the applications
@@ -52,7 +52,7 @@ The following steps can be used to build the "Islam Companion Desktop Reader" ap
 * Download the [source code](https://github.com/nadirlc/islam-companion-desktop-reader/archive/master.zip) from GitHub. Copy the source code to the source folder
 * Install the PyQt 5 framework using the command: **pip install PyQt5**
 * Install the Islam Companion Desktop API using the command: **pip install ic-desktop-api**
-* Download the [quran](https://islamcompanion.pakjiddat.pk/islamcompanion/data/holy-quran.db.tar.bz2) sqlite database. Extract the downloaded file to **source/quran/data/holy-quran.db**
-* Download the [hadith](https://islamcompanion.pakjiddat.pk/islamcompanion/data/hadith.db.tar.bz2) sqlite database. Extract the downloaded file to **source/hadith/data/hadith.db**
+* Download the [quran](https://drive.google.com/open?id=11a_dQ4i0__--x5PkFjlmwMUxgMdTWbIa) sqlite database. Extract the downloaded file to **source/quran/data/holy-quran.db**
+* Download the [hadith](https://drive.google.com/open?id=1pHo5auUuKiNEi9jlmQJ0-n3oqDEdbDR0) sqlite database. Extract the downloaded file to **source/hadith/data/hadith.db**
 * Run the quran reader using the command: **python quran.py**. The command should be run from the source/quran folder
 * Run the hadith reader using the command: **python hadith.py**. The command should be run from the source/hadith folder
