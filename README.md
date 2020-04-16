@@ -1,4 +1,4 @@
-![Islam Companion Desktop Reader](https://pakjiddat.netlify.com/static/8c513780478d833c9b633dcd099b6348/f941f/islamcompanion-desktop-reader.png)
+![Islam Companion Desktop Reader](https://pakjiddat.netlify.app/static/8c513780478d833c9b633dcd099b6348/f941f/islamcompanion-desktop-reader.png)
 
 ### Introduction
 
